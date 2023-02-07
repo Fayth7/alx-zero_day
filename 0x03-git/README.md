@@ -1,1 +1,1 @@
-git repo session
+Keeping up to date with changes
